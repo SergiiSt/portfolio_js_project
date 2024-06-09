@@ -2,6 +2,10 @@
   padding-top: 80px;
 }
 
+.dark {
+  border-color: black;
+}
+
 .icon {
   fill: var(--white);
   stroke: var(--accet-green);
